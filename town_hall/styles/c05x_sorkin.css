@@ -8,7 +8,7 @@ body {
 	border: double 5px blue;
 	font-align: center;
 	background-color: white;
-	font-size: 170%;
+	font-size: 185%;
 }
 
 header h1 { 
@@ -47,9 +47,10 @@ cite{
 	font-style: normal;
 }
 
-p.cite-paragraph {
+cite {
 	text-align: right;
 	margin-bottom: 0.75em;
+	
 }
 
 img {
