@@ -6,9 +6,14 @@ body {
 	width: 650px;
   	text-align: center;
 	border-style: double; color: blue;
+}
+/* the style of the header*/
+
+
+/* the style for the main*/
+main {
 	padding-top: 30px;
   	padding-right: 30px;
  	padding-bottom: 30px;
- 	padding-left: 60px;
+ 	padding-left: 60px
 }
-/* the style of the header*/
