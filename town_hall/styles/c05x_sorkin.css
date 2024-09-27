@@ -4,9 +4,8 @@ body {
     	font-size: 100%;
 	background-color: yellow;
 	width: 650px;
-  	text-align: center;
+  	text-align: right;
 	border-style: double; color: blue;
-	padding-left: 150px
 }
 /* the style of the header*/
 
