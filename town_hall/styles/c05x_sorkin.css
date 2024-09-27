@@ -8,6 +8,7 @@ body {
 	border: double 5px blue;
 	font-align: center;
 	background-color: white;
+	font-size: 150%;
 }
 
 header h1 { 
