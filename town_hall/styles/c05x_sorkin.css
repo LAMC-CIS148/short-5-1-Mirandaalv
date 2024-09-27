@@ -8,7 +8,7 @@ body {
 	border: double 5px blue;
 	font-align: center;
 	background-color: white;
-	font-size: 170%;
+	font-size: 200%;
 }
 
 header h1 { 
@@ -69,4 +69,5 @@ footer p {
 footer{
 	border-top: 4px solid blue;
 	padding-top: 10px;
+	text-align: center;
 }
