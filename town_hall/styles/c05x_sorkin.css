@@ -10,23 +10,27 @@ body {
 	background-color: white;
 }
 
+header h1 { 
+	color: blue;
+}
+
 main {
 	padding: 20px:
 }
 
 h1{
 	font-size: 150%;
-	color: blue;
+	color: black;
 }
 
 h2{
 	font-size: 125%;
-	color: blue;
+	color: black;
 }
 
 h3{
 	font-size: 115%;
-	color: blue;
+	color: black;
 }
 p, blockquote, ul, li {
 	margin-top: 10px;
