@@ -6,5 +6,9 @@ body {
 	width: 650px;
   	text-align: center;
 	border-style: double; color: blue;
+	padding-top: 30px;
+  	padding-right: 30px;
+ 	padding-bottom: 30px;
+ 	padding-left: 30px;
 }
 /* the style of the header*/
